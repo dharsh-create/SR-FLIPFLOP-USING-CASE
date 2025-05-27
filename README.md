@@ -52,6 +52,8 @@ RegisterNumber: 212223040038
 ![image](https://github.com/user-attachments/assets/a8abf064-3dca-42c1-be2f-ab38bb81dc84)
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/user-attachments/assets/790c2885-3731-4777-abe2-d6a9a0fc3eae)
+
+
 **RESULTS**
 The SR flip-flop implemented in Verilog has been successfully completed.
 
